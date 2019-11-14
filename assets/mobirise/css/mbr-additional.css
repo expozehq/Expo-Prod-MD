@@ -588,6 +588,9 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
+.scrollToTop_wraper {
+  display: none;
+}
 blockquote {
   border-color: #1b9e92;
 }
