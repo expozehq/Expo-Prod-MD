@@ -910,6 +910,15 @@
             },
             ".mbr-text-right": {
               "color": "#232323"
+            },
+            ".article-counter-left": {
+              "color": "#1b9e92"
+            },
+            ".article-counter-right": {
+              "color": "#1b9e92"
+            },
+            "H2": {
+              "color": "#1b9e92"
             }
           },
           "_name": "content14",
@@ -944,6 +953,12 @@
                   "border-right": "2px dotted #e2e2e2"
                 }
               }
+            },
+            ".article-counter-left": {
+              "color": "#1b9e92"
+            },
+            ".article-counter-right": {
+              "color": "#1b9e92"
             }
           },
           "_name": "content15",
@@ -960,7 +975,10 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
+            "background-color": "@bgColor",
+            ".block-title": {
+              "color": "#1b9e92"
+            }
           },
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-12\">\n                <h2 class=\"mbr-fonts-style block-title align-center\" data-app-selector=\".block-title\" mbr-theme-style=\"display-2\">Would like a free advise?&nbsp;<b>Schedule a meeting!</b></h2>\n            </div>\n        </div>\n    </div>\n</section>",
