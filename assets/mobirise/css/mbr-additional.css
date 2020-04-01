@@ -1471,8 +1471,98 @@ section.lazy-placeholder:after {
 .cid-rHTGNHgC4N .block-title {
   color: #1b9e92;
 }
+.cid-rUUYzQU25s {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rUUYzQU25s *:focus {
+  outline: none;
+}
+.cid-rUUYzQU25s .form-control {
+  width: 100%;
+  min-height: auto;
+  color: #10534d !important;
+  border: none;
+  border-radius: 0 !important;
+  background-color: transparent;
+  padding: .5rem 0rem;
+  border-bottom: 1px solid #10534d;
+  box-shadow: none;
+}
+.cid-rUUYzQU25s .form-control:focus {
+  outline: none;
+  box-shadow: none;
+}
+.cid-rUUYzQU25s input::-webkit-input-placeholder {
+  color: #10534d;
+}
+.cid-rUUYzQU25s input::-moz-placeholder {
+  color: #10534d;
+}
+.cid-rUUYzQU25s textarea::-webkit-input-placeholder {
+  color: #10534d;
+}
+.cid-rUUYzQU25s textarea::-moz-placeholder {
+  color: #10534d;
+}
+.cid-rUUYzQU25s .soc-item {
+  display: inline-block;
+  margin: 0 .1rem .2rem .1rem;
+  padding: 10px 11px 0 11px;
+  border: 1px solid #1b9e92;
+  border-radius: 50%;
+}
+.cid-rUUYzQU25s .soc-item:hover {
+  opacity: .5;
+}
+.cid-rUUYzQU25s .soc-item .socicon {
+  font-size: 1.5rem;
+  color: #1b9e92;
+}
+.cid-rUUYzQU25s .days-column,
+.cid-rUUYzQU25s .hours-column {
+  display: inline-block;
+}
+.cid-rUUYzQU25s .days-column span,
+.cid-rUUYzQU25s .hours-column span {
+  display: block;
+}
+.cid-rUUYzQU25s .input-group-btn {
+  display: block;
+}
+@media (max-width: 767px) {
+  .cid-rUUYzQU25s .days-column {
+    padding-right: 0 !important;
+  }
+  .cid-rUUYzQU25s .hours-column {
+    max-width: 50% !important;
+  }
+  .cid-rUUYzQU25s .opening-hours {
+    padding-bottom: 48px !important;
+  }
+}
+.cid-rUUYzQU25s .follow-title,
+.cid-rUUYzQU25s .social-list {
+  text-align: center;
+}
+.cid-rUUYzQU25s .contacts-title,
+.cid-rUUYzQU25s .contacts-block {
+  color: #10534d;
+}
+.cid-rUUYzQU25s .address-title,
+.cid-rUUYzQU25s .address-block {
+  color: #10534d;
+}
+.cid-rUUYzQU25s .opening-hours-title,
+.cid-rUUYzQU25s .opening-hours {
+  color: #10534d;
+}
+.cid-rUUYzQU25s H3 {
+  color: #10534d;
+}
 .cid-rHOirqW3pv {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
